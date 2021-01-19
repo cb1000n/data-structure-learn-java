@@ -1,5 +1,8 @@
 package a_array.c_add_element_in_array;
 
+/**
+ * 自定义数组，长度固定，添加插入元素方法
+ */
 public class Array {
     private int[] data;
     private int size;

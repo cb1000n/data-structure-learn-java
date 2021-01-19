@@ -1,5 +1,9 @@
 package a_array.f_generic_data_structures;
 
+/**
+ * 自定义数组，可存入其他元素，
+ * @param <E>
+ */
 public class Array<E> {
     private E[] data;
     private int size;

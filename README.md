@@ -38,9 +38,10 @@
 #### 单词表
 |english|chinese|
 |----|----|
-|Require|需要|
-|Query|查询|
+|basics|基础|
+|require|需要|
+|query|查询|
 |illegal|非法的|
 |contain|包含|
-|Generic|泛型|
-|Structures|结构|
+|heneric|泛型|
+|structures|结构|

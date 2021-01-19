@@ -1,5 +1,8 @@
 package a_array.e_contain_find_and_remove;
 
+/**
+ * 自定义数组，添加判断是否包含元素、移除元素方法
+ */
 public class Array {
     private int[] data;
     private int size;
@@ -183,8 +186,9 @@ public class Array {
         res.append('[');
         for(int i = 0 ; i < size ; i ++){
             res.append(data[i]);
-            if(i != size - 1)
+            if(i != size - 1) {
                 res.append(", ");
+            }
         }
         res.append(']');
         return res.toString();

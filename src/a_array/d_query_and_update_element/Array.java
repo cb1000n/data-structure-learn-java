@@ -1,5 +1,8 @@
 package a_array.d_query_and_update_element;
 
+/**
+ * 自定义数组，添加查询和更新方法
+ */
 public class Array {
     private int[] data;
     private int size;

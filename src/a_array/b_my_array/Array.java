@@ -1,5 +1,8 @@
 package a_array.b_my_array;
 
+/**
+ * 自定义数组，长度不可变
+ */
 public class Array {
     private int[] data;
     private int size;
